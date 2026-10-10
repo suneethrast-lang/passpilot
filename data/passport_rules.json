@@ -1,0 +1,32 @@
+
+{
+  "dataset_version": "1.0",
+  "jurisdiction": "India",
+  "scope": "General preparation guidance for ordinary passports",
+  "rules": [
+    {
+      "id": "PS-DOC-001",
+      "topic": "document_preparation",
+      "guidance": "Bring original documents and one set of self-attested photocopies to the Passport Seva Kendra.",
+      "source_name": "Passport Seva - Document Advisor",
+      "source_url": "https://www.passportindia.gov.in/psp/docAdvisor/attachmentAdvFreshInp",
+      "action": "Prepare originals and self-attested photocopies."
+    },
+    {
+      "id": "PS-DOC-002",
+      "topic": "additional_requirements",
+      "guidance": "Check the relevant Passport Office page for any additional document requirements.",
+      "source_name": "Passport Seva - Document Advisor",
+      "source_url": "https://www.passportindia.gov.in/psp/docAdvisor/attachmentAdvFreshInp",
+      "action": "Check requirements for the relevant Passport Office and application category."
+    },
+    {
+      "id": "PS-APP-001",
+      "topic": "application_category",
+      "guidance": "Document requirements depend on the application category and circumstances.",
+      "source_name": "Passport Seva - Application Guide",
+      "source_url": "https://www.passportindia.gov.in/psp/Apply",
+      "action": "Confirm the correct application category before generating a checklist."
+    }
+  ]
+}
